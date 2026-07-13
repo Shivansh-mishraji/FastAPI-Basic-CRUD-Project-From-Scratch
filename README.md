@@ -43,3 +43,5 @@ My logical instincts were spot on! Even when I didn't know the exact Python synt
 3. Open `http://127.0.0.1:8000/docs` to test the API!
 
 This is just the beginning. Next stop: real databases and user authentication!
+
+<!-- activity:2026-07-13 --> - Updated project documentation and developer notes.
