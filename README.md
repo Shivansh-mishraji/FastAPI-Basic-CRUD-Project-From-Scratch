@@ -45,3 +45,5 @@ My logical instincts were spot on! Even when I didn't know the exact Python synt
 This is just the beginning. Next stop: real databases and user authentication!
 
 <!-- activity:2026-07-13 --> - Updated project documentation and developer notes.
+
+<!-- activity:2026-07-14 --> - Cleaned up unused imports and variables.
