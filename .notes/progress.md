@@ -1,6 +1,6 @@
 # Progress Tracker
 
-Updated: 2026-07-14
+Updated: 2026-07-20
 
 ## This Week
 
@@ -11,4 +11,4 @@ Updated: 2026-07-14
 
 ## Notes
 
-Priority: clean up deprecated code paths in the codebase.
+Next step: refactor the authentication module.
